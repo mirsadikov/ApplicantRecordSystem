@@ -1,0 +1,167 @@
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\RightJob.csprojAssemblyReference.cache
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\RightJob.ParentForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\RightJob.Properties.Resources.resources
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\RightJob.csproj.GenerateResource.cache
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\RightJob.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\bin\Debug\RightJob.exe.config
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\bin\Debug\RightJob.exe
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\bin\Debug\RightJob.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\RightJob.exe
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\RightJob.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\RightJob.AboutForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\bin\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\bin\Debug\System.Data.SqlServerCe.dll
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\bin\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\RightJob.csproj.CopyComplete
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\bin\Debug\DataBase.sdf
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\bin\Debug\RightJob.DAL.dll.config
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\RightJob.ApplicantListForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\RightJob.TestListForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\bin\Debug\DataBase.sdf
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\bin\Debug\RightJob.exe.config
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\bin\Debug\RightJob.exe
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\bin\Debug\RightJob.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\bin\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\bin\Debug\System.Data.SqlServerCe.dll
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\bin\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\bin\Debug\RightJob.DAL.dll.config
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\obj\Debug\RightJob.csprojAssemblyReference.cache
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\obj\Debug\RightJob.AboutForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\obj\Debug\RightJob.ApplicantListForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\obj\Debug\RightJob.ParentForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\obj\Debug\RightJob.Properties.Resources.resources
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\obj\Debug\RightJob.TestListForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\obj\Debug\RightJob.csproj.GenerateResource.cache
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\obj\Debug\RightJob.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\obj\Debug\RightJob.csproj.CopyComplete
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\obj\Debug\RightJob.exe
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob\obj\Debug\RightJob.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\bin\Debug\DataBase.sdf
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\bin\Debug\RightJob.exe.config
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\bin\Debug\RightJob.exe
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\bin\Debug\RightJob.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\bin\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\bin\Debug\System.Data.SqlServerCe.dll
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\bin\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\bin\Debug\RightJob.DAL.dll.config
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.csprojAssemblyReference.cache
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.AboutForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.ApplicantListForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.ParentForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.Properties.Resources.resources
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.TestListForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.csproj.GenerateResource.cache
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.csproj.CopyComplete
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.exe
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.ApplicantEditForm.resources
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob\obj\Debug\RightJob.TestEditForm.resources
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\bin\Debug\DataBase.sdf
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\bin\Debug\RightJob.exe.config
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\bin\Debug\RightJob.exe
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\bin\Debug\RightJob.pdb
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\bin\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\bin\Debug\System.Data.SqlServerCe.dll
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\bin\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\bin\Debug\RightJob.DAL.dll.config
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.csprojAssemblyReference.cache
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.AboutForm.resources
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.ApplicantEditForm.resources
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.ApplicantListForm.resources
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.ParentForm.resources
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.Properties.Resources.resources
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.TestEditForm.resources
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.TestingForm.resources
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.TestListForm.resources
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.csproj.GenerateResource.cache
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.csproj.CopyComplete
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.exe
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.pdb
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\bin\Debug\RightJob.exe.manifest
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\bin\Debug\RightJob.application
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.TrustInfo.xml
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.exe.manifest
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob\obj\Debug\RightJob.application
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\bin\Debug\DataBase.sdf
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\bin\Debug\RightJob.exe.config
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\bin\Debug\RightJob.exe.manifest
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\bin\Debug\RightJob.application
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\bin\Debug\RightJob.exe
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\bin\Debug\RightJob.pdb
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\bin\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\bin\Debug\System.Data.SqlServerCe.dll
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\bin\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\bin\Debug\RightJob.DAL.dll.config
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.csprojAssemblyReference.cache
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.AboutForm.resources
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.ApplicantEditForm.resources
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.ApplicantListForm.resources
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.ParentForm.resources
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.Properties.Resources.resources
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.TestEditForm.resources
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.TestingForm.resources
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.TestListForm.resources
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.csproj.GenerateResource.cache
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.TrustInfo.xml
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.exe.manifest
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.application
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.csproj.CopyComplete
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.exe
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob\obj\Debug\RightJob.pdb
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\bin\Debug\DataBase.sdf
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.exe.config
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.exe.manifest
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.application
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.exe
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.pdb
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\bin\Debug\System.Data.SqlServerCe.dll
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.DAL.dll.config
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.csprojAssemblyReference.cache
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.AboutForm.resources
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.ApplicantEditForm.resources
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.ApplicantListForm.resources
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.ParentForm.resources
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.Properties.Resources.resources
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.TestEditForm.resources
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.TestingForm.resources
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.TestListForm.resources
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.csproj.GenerateResource.cache
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.TrustInfo.xml
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.exe.manifest
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.application
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.csproj.CopyComplete
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.exe
+E:\WIUT\FunPro\CW1\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.pdb
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\bin\Debug\DataBase.sdf
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.exe.config
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.exe.manifest
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.application
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.exe
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.pdb
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.DAL.dll
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.DAL.pdb
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\bin\Debug\RightJob.DAL.dll.config
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.csprojAssemblyReference.cache
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.AboutForm.resources
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.ApplicantEditForm.resources
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.ApplicantListForm.resources
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.ParentForm.resources
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.Properties.Resources.resources
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.TestEditForm.resources
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.TestingForm.resources
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.TestListForm.resources
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.csproj.GenerateResource.cache
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.csproj.CoreCompileInputs.cache
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.TrustInfo.xml
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.exe.manifest
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.application
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.csproj.CopyComplete
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.exe
+C:\Users\mirab\Desktop\FunPro.CW1.12860\RightJob\obj\Debug\RightJob.pdb

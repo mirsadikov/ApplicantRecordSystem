@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-RightJob",
+      "appliesTo": "RightJob/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-RightJob ARS",
+      "appliesTo": "RightJob ARS.sln",
+      "type": "launch"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\bin\Debug\CW.FunPro.exe.config
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\bin\Debug\CW.FunPro.exe
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\bin\Debug\CW.FunPro.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\CW.FunPro.csprojAssemblyReference.cache
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\CW.FunPro.Form1.resources
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\CW.FunPro.Properties.Resources.resources
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\CW.FunPro.csproj.GenerateResource.cache
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\CW.FunPro.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\CW.FunPro.exe
+E:\WIUT\FunPro\CW1\CW.FunPro\CW.FunPro\obj\Debug\CW.FunPro.pdb

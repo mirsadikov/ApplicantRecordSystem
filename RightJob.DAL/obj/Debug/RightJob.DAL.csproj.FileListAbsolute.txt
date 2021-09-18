@@ -1,0 +1,36 @@
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob.DAL\bin\Debug\RightJob.DAL.dll.config
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob.DAL\bin\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob.DAL\bin\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob.DAL\bin\Debug\System.Data.SqlServerCe.dll
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob.DAL\obj\Debug\RightJob.DAL.csprojAssemblyReference.cache
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob.DAL\obj\Debug\RightJob.DAL.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob.DAL\obj\Debug\RightJob.DAL.csproj.CopyComplete
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob.DAL\obj\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\CW.FunPro\RightJob.DAL\obj\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob.DAL\bin\Debug\RightJob.DAL.dll.config
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob.DAL\bin\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob.DAL\bin\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob.DAL\bin\Debug\System.Data.SqlServerCe.dll
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob.DAL\obj\Debug\RightJob.DAL.csprojAssemblyReference.cache
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob.DAL\obj\Debug\RightJob.DAL.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob.DAL\obj\Debug\RightJob.DAL.csproj.CopyComplete
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob.DAL\obj\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\CW.FunPro - Copy\RightJob.DAL\obj\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob.DAL\bin\Debug\RightJob.DAL.dll.config
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob.DAL\bin\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob.DAL\bin\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob.DAL\bin\Debug\System.Data.SqlServerCe.dll
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob.DAL\obj\Debug\RightJob.DAL.csprojAssemblyReference.cache
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob.DAL\obj\Debug\RightJob.DAL.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob.DAL\obj\Debug\RightJob.DAL.csproj.CopyComplete
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob.DAL\obj\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\3. CW.FunPro - take test\RightJob.DAL\obj\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob.DAL\bin\Debug\RightJob.DAL.dll.config
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob.DAL\bin\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob.DAL\bin\Debug\RightJob.DAL.pdb
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob.DAL\bin\Debug\System.Data.SqlServerCe.dll
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob.DAL\obj\Debug\RightJob.DAL.csprojAssemblyReference.cache
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob.DAL\obj\Debug\RightJob.DAL.csproj.CoreCompileInputs.cache
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob.DAL\obj\Debug\RightJob.DAL.csproj.CopyComplete
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob.DAL\obj\Debug\RightJob.DAL.dll
+E:\WIUT\FunPro\CW1\4. CW.FunPro - changed table\RightJob.DAL\obj\Debug\RightJob.DAL.pdb
